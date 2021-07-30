@@ -10,6 +10,7 @@
 - [Jason Zhu](https://github.com/JasonZhu95
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 Joshua Do
+- [migmanu] (https://github.com/migmanu)
 - [cafonso](https://github.com/cafonso)
 - [Lukman Sayyad](https://github.com/lukmansayyad)
 - [utah239](https://github.com/utah239)
